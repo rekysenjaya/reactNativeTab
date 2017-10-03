@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rekysenjaya/rekyproject/selenaTab/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/rekysenjaya/rekyproject/selenaTab/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rekysenjaya/rekyproject/reactNativeTab/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/rekysenjaya/rekyproject/reactNativeTab/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
